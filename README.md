@@ -1,2 +1,2 @@
-# selenium_hw
-home work for python + selenium course
+# selenium
+Page object pattern + test coverage using page obgect
